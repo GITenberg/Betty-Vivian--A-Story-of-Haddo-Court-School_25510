@@ -1,0 +1,35 @@
+_repo: Betty-Vivian--A-Story-of-Haddo-Court-School_25510
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25510-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Smith, Elizabeth Thomasina Meade
+    - Meade, Lillie
+    - Meade, Elizabeth Thomasina
+    - Mead, L. T.
+    - Thomas, Elizabeth
+    - Meade, Mrs. L. T.
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_issued: '2008-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Betty Vivian: A Story of Haddo Court School'
+url: http://www.gutenberg.org/ebooks/25510
